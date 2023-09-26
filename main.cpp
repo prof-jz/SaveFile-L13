@@ -1,5 +1,14 @@
-#include <iostream>
-#include <fstream>
+/*********************************************
+* Alabama A&M University - EE109 - Fall 2023
+* Lesson 12 exercise code: File read and write
+* By:            Prof J Zehnpfennig, PE
+* Created:       26 September 2023
+* Last Updated:  26 September 2023
+*********************************************/
+
+#include <fstream>  //JZ - used to work with files
+#include <iostream> //JZ - used to work with input/output streams
+#include <string>   //JZ - used to work with strings
 
 using namespace std;
 
